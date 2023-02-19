@@ -1,0 +1,48 @@
+results for testworlds/world1.csv
+non_dyna_score: -34.0
+dyna_score    : -27.0
+
+
+results for testworlds/world2.csv
+non_dyna_score: -19.0
+dyna_score    : -21.0
+
+
+results for testworlds/world3.csv
+non_dyna_score: -80.0
+dyna_score    : -10000.0
+
+
+results for testworlds/world4.csv
+non_dyna_score: -34.0
+dyna_score    : -10000.0
+
+
+results for testworlds/world5.csv
+non_dyna_score: -24.0
+dyna_score    : -20.0
+
+
+results for testworlds/world6.csv
+non_dyna_score: -25.0
+dyna_score    : -22.5
+
+
+results for testworlds/world7.csv
+non_dyna_score: -29.0
+dyna_score    : -18.0
+
+
+results for testworlds/world8.csv
+non_dyna_score: -19.0
+dyna_score    : -33.0
+
+
+results for testworlds/world9.csv
+non_dyna_score: -20.0
+dyna_score    : -21.5
+
+
+results for testworlds/world10.csv
+non_dyna_score: -42.0
+dyna_score    : -39.5
